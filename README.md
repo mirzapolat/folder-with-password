@@ -1,4 +1,4 @@
-# folder-with-password
+# Ordner mit Passwort schützen [Deutsch/German]
 
 **Mit diesem Quellcode einer Batch-Datei kannst du einen Ordner in Windows mit einem Passwort schützen, sodass niemand ohne das Passwort auf diesen Ordner zugreifen kann.**
 

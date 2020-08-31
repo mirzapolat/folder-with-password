@@ -4,7 +4,7 @@
 
 ### How can I use this?
 
- 1. Start copying the **entire** text from the file [folder_with_password.txt](folder_with_password.txt){:target="_blank"} into a new file on your computer.
+ 1. Start copying the **entire** text from the file [folder_with_password.txt](../folder_with_password.txt) into a new file on your computer.
  2. Replace the text *"INSERT_PASSWORD_HERE"* inside your own file with your desired password.
  3. Save your file as a **.bat file** and start it once.
  4. Your file is now ready to be used. You can now move as many files as you want in your secret folder and lock the folder by executing the .bat-file. If you now want to unlock it again you can simply start the .bat-file and enter your password.

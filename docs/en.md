@@ -1,4 +1,4 @@
-# Windows Folder Password Lock [en-en]
+# Windows Folder Password Lock [en]
 
 Using this small but nice batch-script you can easily protect your private folder with your own password, so no one else can see your private files.
 
